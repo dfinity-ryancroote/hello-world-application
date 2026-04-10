@@ -1,0 +1,8 @@
+{
+  "frontend/src/App.tsx": "Main application component that renders the header, centered hello world content, and footer in a full-height flex layout.",
+  "frontend/src/components/Header.tsx": "Header component with a logo icon and application title, featuring a subtle backdrop blur effect.",
+  "frontend/src/components/HelloWorld.tsx": "Main content component displaying the \"Hello, World!\" message with sparkle icons, gradient text effects, and an animated glow background.",
+  "frontend/src/components/Footer.tsx": "Footer component with copyright notice and caffeine.ai attribution link, including a heart icon.",
+  "frontend/src/hooks/useQueries.ts": "Empty file placeholder as no backend queries are required for this frontend-only application.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring a purple-blue primary color scheme optimized for both light and dark modes."
+}
